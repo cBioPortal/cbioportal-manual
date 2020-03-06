@@ -49,3 +49,11 @@ This panel provides several options, which you may wish to explore.
   3. **Enter Genes**:  Use the pull-down menu to select from pre-defined gene sets, or use the text box to enter one or more genes.  You can enter HUGO gene symbols, gene aliases or Entrez Gene IDs.  The text box will also automatically validate your input and provide suggestions if we can't find an exact match.
 
 When you are done, click the "Submit Query" button and continue on with the next section.
+
+## Quick Search
+
+If you want to jump directly to a specific cancer study, a specific gene or a specific patient, you can get there much faster via our new Quick Search feature.
+
+Here's an example of how to jump directly to the MSK Cholangiocarcinoma study:
+
+![Query By Gene](img/home_query_by_gene.png)
