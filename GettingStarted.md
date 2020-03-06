@@ -56,4 +56,4 @@ If you want to jump directly to a specific cancer study, a specific gene or a sp
 
 Here's an example of how to jump directly to the MSK Cholangiocarcinoma study:
 
-![Query By Gene](img/quick_search.png)
+![Quick Search](img/quick_search.png)
