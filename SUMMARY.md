@@ -10,6 +10,8 @@
 * [Datasets](Datasets.md)
 * [Getting Started](GettingStarted.md)
 * [Results View](ResultsView.md)
+  * [OncoPrint](OncoPrint.md)
+  * [Mutual Exclusivity](MutualExclusivity.md)
 * [Study View](StudyView.md)
 * [Patient View](PatientView.md)
 
