@@ -14,8 +14,12 @@ Mutually exclusive events may indicate that the specified genes are functionally
 
 ## Example
 
-As an example, let's assess a set of [key genes with the Cholangiocarcinoma study from MSKCC](http://bit.ly/2TSMeBp).  First, we can assess the OncoPrint and visually observe some trends in mutual exclusivity.  For example, it appears that mutations in TP53 are mutually exclusive of mutations in IDH1, and both of these are mutually exclusive of structural rearrangements in FGFR2:
+As an example, let's assess a set of [key genes with the Cholangiocarcinoma study from MSKCC](http://bit.ly/2TSMeBp).  First, we can assess the OncoPrint and visually observe some trends in mutual exclusivity.  For example, it appears that mutations in TP53 are mutually exclusive of mutations in IDH1 and BAP1, and both of these are mutually exclusive of structural rearrangements in FGFR2:
 
 ![MSKCC Cholangiocarcinoma OncoPrint](img/cholangio_oncoprint.png)
 
+We can then further assess these events via the Mutual Exclusivity Tab:
 
+![MSKCC Cholangiocarcinoma Mutual Exclusivity](img/cholangio_mutex.png)
+
+By default, the Mutual Exclusivity Tab will assess all pairs of genes.  You can now observe that several of these pairs, including TP53:IDH1, TP53:BAP1, and IDH1:FGFR2, etc. are statistically significant.
