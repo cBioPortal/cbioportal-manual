@@ -2,9 +2,9 @@
 
 ## Introduction
 
-The **Cancer Types Summary Tab** is most useful when you are analyzing cancer studies with > 1 cancer type.  For example, the MSK-IMPACT cancer study contains dozens of cancer types, all obtained during routine clinical sequencing.  You can therefore use the Cancer Types Summary tab to directly summarize genomic alterations across multiple cancer types within the MSK-IMPACT study.
+The **Cancer Types Summary Tab** is most useful when you are analyzing cancer studies with > 1 cancer type.  For example, the [MSK-IMPACT cancer study](https://www.cbioportal.org/study/summary?id=msk_impact_2017) contains dozens of cancer types, all obtained during routine clinical sequencing.
 
-For example, you can assess [IDH1 mutations across all cancer types in the MSK-IMPACT cohort](http://bit.ly/2IAkJr4). (Screenshot).
+As an example, you can assess [IDH1 mutations across all cancer types across the MSK-IMPACT cohort](http://bit.ly/2IAkJr4):
 
 ![IDH1 Mutations in MSK-IMPACT](img/idh1_msk_impact.png)
 
