@@ -1,0 +1,21 @@
+# Plots
+
+## Introduction
+
+The Plots tab provides a flexible, interactive interface for creating plots.  Depending on the fields you select for x or y, you can easily generate multiple plot types.  For example, if you select a categorical variable for x and a continuous variable for y, you can generate **box plots**;  if you select two continuous variables, you can generate **scatter plots**, etc.
+
+## Example 1
+
+In our first example, we can assess EGFR amplifications in Glioblastoma:
+
+![EGFR Amplification in GBM](img/egfr_gbm_cna_mrna.png)
+
+In this case, we can observe that patients with EGFR amplifiction have concordant increased levels of EGFR mRNA expression. 
+
+## Example 2
+
+In our second example, we can assess BRCA1 methylation and mRNA expression in Ovarian Cancer:
+
+![BRCA1 Hypermethylation in Ovarian Cancer](img/brca1_ovarian_methylation_mrna.png)
+
+In this case, we can observe that patients with BRCA1 hypermethylation have concordant decreased levels of BRCA1 mRNA expression.
