@@ -8,7 +8,7 @@ The Plots tab provides a flexible, interactive interface for creating plots.  De
 
 The plots tab provides numerous options for configuring plots.
 
-For example, for each axis, you can specify a genomic data type and gene or a clinical attribute:
+For example, for each axis, you can specify both a genomic data type and a gene or a single clinical attribute:
 
 ![Plot Options](img/plots_options.png)
 
