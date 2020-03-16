@@ -14,6 +14,7 @@
   * [Cancer Types Summary](CancerTypesSummary.md)
   * [Mutual Exclusivity](MutualExclusivity.md)
   * [Plots](Plots.md)
+  * [Mutations](Mutations.md)
 * [Study View](StudyView.md)
 * [Patient View](PatientView.md)
 
