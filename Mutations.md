@@ -31,6 +31,7 @@ cBioPortal provides additional layers of variant annotation, including:
  * Functional Impact:  including predictions from [Mutation Assessor](http://mutationassessor.org/), [SIFT](https://sift.bii.a-star.edu.sg/), and [PolyPhen-2](http://genetics.bwh.harvard.edu/pph2/).
  * Post-Translational Modifications (PTMs):  derived from [dbPTM](http://dbptm.mbc.nctu.edu.tw/). 
  
+ 
  Additional annotations from [COSMIC](https://cancer.sanger.ac.uk/cosmic), [dbSNP](https://www.ncbi.nlm.nih.gov/snp/), [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/), and [gnomAD](https://gnomad.broadinstitute.org/) are also made available.
 
 {% hint style="info" %}
