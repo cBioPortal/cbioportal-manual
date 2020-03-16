@@ -27,11 +27,12 @@ Protein domain definitions are also derived from the UniProt canonical sequence 
 cBioPortal provides additional layers of variant annotation, including:
 
  * Cancer Hotspots:  statistically significant mutation hotspots, as identified by [Cancer Hotspots](https://cancerhotspots.org/) and [3D Hotspots](https://3dhotspots.org/).
- * Therapeutic Indication:  including therapeutic indications from [OncoKB](https://www.oncokb.org/), [CIVIC](https://civicdb.org/), and [My Cancer Genome](https://www.mycancergenome.org/).
+ * Therapeutic Indication:  including annotation records from [OncoKB](https://www.oncokb.org/), [CIVIC](https://civicdb.org/), and [My Cancer Genome](https://www.mycancergenome.org/).
  * Functional Impact:  including predictions from [Mutation Assessor](http://mutationassessor.org/), [SIFT](https://sift.bii.a-star.edu.sg/), and [PolyPhen-2](http://genetics.bwh.harvard.edu/pph2/).
  * Post-Translational Modifications (PTMs):  derived from [dbPTM](http://dbptm.mbc.nctu.edu.tw/). 
- * Additional annotations from [COSMIC](https://cancer.sanger.ac.uk/cosmic), [dbSNP](https://www.ncbi.nlm.nih.gov/snp/), [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/), and [gnomAD](https://gnomad.broadinstitute.org/) are also available.
+ 
+ Additional annotations from [COSMIC](https://cancer.sanger.ac.uk/cosmic), [dbSNP](https://www.ncbi.nlm.nih.gov/snp/), [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/), and [gnomAD](https://gnomad.broadinstitute.org/) are also made available.
 
 {% hint style="info" %}
-Most of these variant annotations are automatically provided via [Genome Nexus](https://www.genomenexus.org/), a separate variant annotation service maintained by MSKCC. 
+Most variant annotations are automatically provided via [Genome Nexus](https://www.genomenexus.org/), a separate variant annotation service maintained by MSKCC. 
 {% endhint %}
